@@ -1,0 +1,30 @@
+
+
+table, td, th {
+    border: 1px solid; 
+}
+
+caption {
+    border: 5px;
+    background-color: blue;
+    color: aliceblue;
+}
+
+thead{
+    background-color: aqua;
+    
+
+}
+
+tbody {
+    background-color: black;
+    color: aliceblue;
+
+}
+
+tfoot{
+    background-color: brown;
+    color: aliceblue;
+
+
+}
